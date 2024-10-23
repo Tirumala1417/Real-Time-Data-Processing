@@ -92,8 +92,5 @@ This project is a **Real-Time Weather Monitoring System** that fetches weather d
 
 ---
 
-### Adjustments
 
-1. **Ensure Uniqueness**: Customize descriptions based on your specific implementation and features. Mention any modifications you've made to the design, code, or added functionality.
-2. **Avoid Direct Duplication**: Give credit where necessary, but highlight your unique contributions to the project.
 
